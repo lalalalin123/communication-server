@@ -1,2 +1,2 @@
 # communication-server
-通信服务器
+基于TCP的长连接通信服务器
