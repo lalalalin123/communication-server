@@ -1,0 +1,9 @@
+C:\Users\纪丁琳\Desktop\实验室文件\通信服务器\Lh-Gprs\Lh-Gprs\obj\Debug\Lh-Gprs.exe
+C:\Users\纪丁琳\Desktop\实验室文件\通信服务器\Lh-Gprs\Lh-Gprs\obj\Debug\Lh-Gprs.pdb
+C:\Users\纪丁琳\Desktop\实验室文件\通信服务器\Lh-Gprs\Lh-Gprs\bin\Debug\Lh-Gprs.exe.config
+C:\Users\纪丁琳\Desktop\实验室文件\通信服务器\Lh-Gprs\Lh-Gprs\bin\Debug\Lh-Gprs.exe
+C:\Users\纪丁琳\Desktop\实验室文件\通信服务器\Lh-Gprs\Lh-Gprs\bin\Debug\Lh-Gprs.pdb
+C:\Users\纪丁琳\Desktop\实验室文件\通信服务器\Lh-Gprs\Lh-Gprs\obj\Debug\mynew-Gprs.csprojResolveAssemblyReference.cache
+C:\Users\纪丁琳\Desktop\实验室文件\通信服务器\Lh-Gprs\Lh-Gprs\obj\Debug\GprsServer.frmUdpSet.resources
+C:\Users\纪丁琳\Desktop\实验室文件\通信服务器\Lh-Gprs\Lh-Gprs\obj\Debug\GprsServer.GprsServer.resources
+C:\Users\纪丁琳\Desktop\实验室文件\通信服务器\Lh-Gprs\Lh-Gprs\obj\Debug\mynew-Gprs.csproj.GenerateResource.Cache

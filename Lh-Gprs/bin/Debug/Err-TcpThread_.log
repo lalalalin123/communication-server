@@ -1,0 +1,42 @@
+2008-11-13 10:44:56;远程主机强迫关闭了一个现有的连接。;   at System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags)
+   at System.Net.Sockets.Socket.Receive(Byte[] buffer)
+   at GprsServer.CdmaProcess.ProcessService() in d:\sys_sourcecode\通用2008版\newcenter\gprs数据接收程序\lh-gprs\cdmaprocess.cs:line 74
+2008-11-13 10:45:00;远程主机强迫关闭了一个现有的连接。;   at System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags)
+   at System.Net.Sockets.Socket.Receive(Byte[] buffer)
+   at GprsServer.CdmaProcess.ProcessService() in d:\sys_sourcecode\通用2008版\newcenter\gprs数据接收程序\lh-gprs\cdmaprocess.cs:line 74
+2008-11-13 10:45:00;远程主机强迫关闭了一个现有的连接。;   at System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags)
+   at System.Net.Sockets.Socket.Receive(Byte[] buffer)
+   at GprsServer.CdmaProcess.ProcessService() in d:\sys_sourcecode\通用2008版\newcenter\gprs数据接收程序\lh-gprs\cdmaprocess.cs:line 74
+2008-11-13 10:45:04;远程主机强迫关闭了一个现有的连接。;   at System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags)
+   at System.Net.Sockets.Socket.Receive(Byte[] buffer)
+   at GprsServer.CdmaProcess.ProcessService() in d:\sys_sourcecode\通用2008版\newcenter\gprs数据接收程序\lh-gprs\cdmaprocess.cs:line 74
+2008-11-13 10:45:04;远程主机强迫关闭了一个现有的连接。;   at System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags)
+   at System.Net.Sockets.Socket.Receive(Byte[] buffer)
+   at GprsServer.CdmaProcess.ProcessService() in d:\sys_sourcecode\通用2008版\newcenter\gprs数据接收程序\lh-gprs\cdmaprocess.cs:line 74
+2008-11-14 12:29:43;远程主机强迫关闭了一个现有的连接。;   at System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags)
+   at System.Net.Sockets.Socket.Receive(Byte[] buffer)
+   at GprsServer.CdmaProcess.ProcessService() in d:\sys_sourcecode\通用2008版\newcenter\gprs数据接收程序\lh-gprs\cdmaprocess.cs:line 74
+2008-11-14 13:05:38;远程主机强迫关闭了一个现有的连接。;   at System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags)
+   at System.Net.Sockets.Socket.Receive(Byte[] buffer)
+   at GprsServer.CdmaProcess.ProcessService() in d:\sys_sourcecode\通用2008版\newcenter\gprs数据接收程序\lh-gprs\cdmaprocess.cs:line 74
+2008-11-15 15:22:28;远程主机强迫关闭了一个现有的连接。;   at System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags)
+   at System.Net.Sockets.Socket.Receive(Byte[] buffer)
+   at GprsServer.CdmaProcess.ProcessService() in d:\sys_sourcecode\通用2008版\newcenter\gprs数据接收程序\lh-gprs\cdmaprocess.cs:line 74
+2008-11-15 16:00:55;远程主机强迫关闭了一个现有的连接。;   at System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags)
+   at System.Net.Sockets.Socket.Receive(Byte[] buffer)
+   at GprsServer.CdmaProcess.ProcessService() in d:\sys_sourcecode\通用2008版\newcenter\gprs数据接收程序\lh-gprs\cdmaprocess.cs:line 74
+2008-11-15 16:09:45;远程主机强迫关闭了一个现有的连接。;   at System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags)
+   at System.Net.Sockets.Socket.Receive(Byte[] buffer)
+   at GprsServer.CdmaProcess.ProcessService() in d:\sys_sourcecode\通用2008版\newcenter\gprs数据接收程序\lh-gprs\cdmaprocess.cs:line 74
+2008-11-15 16:50:19;远程主机强迫关闭了一个现有的连接。;   at System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags)
+   at System.Net.Sockets.Socket.Receive(Byte[] buffer)
+   at GprsServer.CdmaProcess.ProcessService() in d:\sys_sourcecode\通用2008版\newcenter\gprs数据接收程序\lh-gprs\cdmaprocess.cs:line 74
+2008-11-17 11:11:14;远程主机强迫关闭了一个现有的连接。;   at System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags)
+   at System.Net.Sockets.Socket.Receive(Byte[] buffer)
+   at GprsServer.CdmaProcess.ProcessService() in d:\sys_sourcecode\通用2008版\newcenter\gprs数据接收程序\lh-gprs\cdmaprocess.cs:line 74
+2008-11-17 16:24:43;远程主机强迫关闭了一个现有的连接。;   at System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags)
+   at System.Net.Sockets.Socket.Receive(Byte[] buffer)
+   at GprsServer.CdmaProcess.ProcessService() in d:\sys_sourcecode\通用2008版\newcenter\gprs数据接收程序\lh-gprs\cdmaprocess.cs:line 74
+2008-11-17 17:12:08;远程主机强迫关闭了一个现有的连接。;   at System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags)
+   at System.Net.Sockets.Socket.Receive(Byte[] buffer)
+   at GprsServer.CdmaProcess.ProcessService() in d:\sys_sourcecode\通用2008版\newcenter\gprs数据接收程序\lh-gprs\cdmaprocess.cs:line 74

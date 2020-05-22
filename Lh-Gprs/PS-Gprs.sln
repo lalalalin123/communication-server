@@ -1,0 +1,21 @@
+Microsoft Visual Studio Solution File, Format Version 8.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ps-Gprs", "ps-Gprs.csproj", "{D8B9F190-23D9-47A7-9959-C17019EE1D80}"
+	ProjectSection(ProjectDependencies) = postProject
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfiguration) = preSolution
+		Debug = Debug
+		Release = Release
+	EndGlobalSection
+	GlobalSection(ProjectConfiguration) = postSolution
+		{D8B9F190-23D9-47A7-9959-C17019EE1D80}.Debug.ActiveCfg = Debug|.NET
+		{D8B9F190-23D9-47A7-9959-C17019EE1D80}.Debug.Build.0 = Debug|.NET
+		{D8B9F190-23D9-47A7-9959-C17019EE1D80}.Release.ActiveCfg = Release|.NET
+		{D8B9F190-23D9-47A7-9959-C17019EE1D80}.Release.Build.0 = Release|.NET
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+	EndGlobalSection
+	GlobalSection(ExtensibilityAddIns) = postSolution
+	EndGlobalSection
+EndGlobal
